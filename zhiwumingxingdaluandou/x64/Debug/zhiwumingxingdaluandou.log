@@ -1,0 +1,17 @@
+﻿  zhiwumingxingdaluandou.cpp
+D:\vs\zhiwumingxingdaluandou\zhiwumingxingdaluandou\timer.h(19,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\vs\zhiwumingxingdaluandou\zhiwumingxingdaluandou\timer.h(24,16): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+D:\vs\zhiwumingxingdaluandou\zhiwumingxingdaluandou\camera.h(50,29): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\vs\zhiwumingxingdaluandou\zhiwumingxingdaluandou\player.h(34,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\vs\zhiwumingxingdaluandou\zhiwumingxingdaluandou\player.h(579,18): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\vs\zhiwumingxingdaluandou\zhiwumingxingdaluandou\player.h(596,18): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\vs\zhiwumingxingdaluandou\zhiwumingxingdaluandou\peashooter_player.h(45,33): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+D:\vs\zhiwumingxingdaluandou\zhiwumingxingdaluandou\sun_bullet_ex.h(81,93): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\vs\zhiwumingxingdaluandou\zhiwumingxingdaluandou\gloom_bullet.h(67,93): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\vs\zhiwumingxingdaluandou\zhiwumingxingdaluandou\gloom_bullet_ex.h(23,23): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+D:\vs\zhiwumingxingdaluandou\zhiwumingxingdaluandou\gloom_bullet_ex.h(64,93): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\vs\zhiwumingxingdaluandou\zhiwumingxingdaluandou\gloomshroom_player.h(48,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\vs\zhiwumingxingdaluandou\zhiwumingxingdaluandou\nut_bullet.h(41,52): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\vs\zhiwumingxingdaluandou\zhiwumingxingdaluandou\nut_bullet.h(42,54): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\vs\zhiwumingxingdaluandou\zhiwumingxingdaluandou\nut_bullet.h(65,73): warning C4244: “参数”: 从“float”转换到“COLORREF”，可能丢失数据
+  zhiwumingxingdaluandou.vcxproj -> D:\vs\zhiwumingxingdaluandou\x64\Debug\zhiwumingxingdaluandou.exe
